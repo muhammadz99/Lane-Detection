@@ -1,5 +1,5 @@
 # Lane Detection in OpenCV
-![gif](https://user-images.githubusercontent.com/25371934/33930574-61018b38-dfbb-11e7-89bb-66bea1bbb021.gif)
+
 
 ## Overview
 Lane detection for a car driving on the highway using OpenCV in python. Two videos are used and the detected lane is drawn over each frame. The output videos correspond to the test_videos. 
